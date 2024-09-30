@@ -23,4 +23,3 @@ thresholds:
         color: "orange"
       - value: 300
         color: "red"
-
